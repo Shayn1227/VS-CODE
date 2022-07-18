@@ -1,0 +1,23 @@
+body {
+    background-color: lightskyblue;
+    font-size: 15px;
+  }
+  
+  .title {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+  }
+  
+  h1 {
+    color: mediumblue;
+    text-decoration: underline;
+  }
+  
+  h2 {
+    color: darkred;
+  }
+  
+  p {
+    text-align: justify;
+  }
