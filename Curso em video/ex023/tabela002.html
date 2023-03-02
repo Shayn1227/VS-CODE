@@ -19,6 +19,7 @@
             width: 500px;
             border-collapse: collapse;
             margin: 0 auto;
+            position: relative;
         }
 
         caption {
@@ -38,6 +39,13 @@
         tfoot {
             background-color: gray;
             color: black;
+        }
+
+        thead tr th {
+            position: sticky;
+            /* cola o cabeçalho*/
+            top: -1px;
+            background-color: gray;
         }
 
         tbody tr:nth-child(even) {
