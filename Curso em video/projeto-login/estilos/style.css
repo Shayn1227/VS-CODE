@@ -40,7 +40,6 @@ section#login {
 }
 
 section#login #imagem {
-    display: block;
     background: var(--lilas) url(../imagens/pexels-igor-visuals-3681805.jpg) no-repeat;
     background-size: cover;
     background-position: left top;
@@ -48,7 +47,6 @@ section#login #imagem {
 }
 
 section#login #formulario {
-    display: block;
     padding: 10px;
 }
 

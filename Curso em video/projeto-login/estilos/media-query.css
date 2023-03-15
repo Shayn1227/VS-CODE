@@ -13,16 +13,16 @@
 
     section#login {
         width: 80vw;
+        display: flex;
+        flex-direction: row;
     }
 
     section#login #imagem {
-        float: left;
         width: 30%;
         height: 100%;
     }
 
     section#login #formulario {
-        float: right;
         width: 70%;
     }
 
@@ -39,16 +39,16 @@
 
     section#login {
         width: 950px;
+        display: flex;
+        flex-direction: row-reverse;
     }
 
     section#login #imagem {
-        float: right;
         width: 50%;
         height: 100%;
     }
 
     section#login #formulario {
-        float: left;
         width: 50%;
     }
 
